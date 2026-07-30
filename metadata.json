@@ -1,0 +1,6 @@
+{
+  "name": "Church Finance Manager",
+  "description": "Record every collection, explain every expense, and generate clear church financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
